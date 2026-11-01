@@ -1,0 +1,9 @@
+Package: com.wechatai.analysis
+Name: 微信 AI 会话分析
+Version: 2.7.6
+Architecture: iphoneos-arm64
+Description: 微信 AI 会话分析 · 意图分析 / 建议回复 / 记忆档案 / 画图 / 视频
+Maintainer: wechat-ai-analysis
+Author: wechat-ai-analysis
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
